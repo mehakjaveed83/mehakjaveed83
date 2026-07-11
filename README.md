@@ -113,31 +113,14 @@ Passionate about solving real-world problems with data, machine learning, and AI
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
 
-<p align="center">
+[![Healthcare AI](https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=healthcare-ai-support-agent&theme=tokyonight)](https://github.com/mehakjaveed83/healthcare-ai-support-agent)
 
-<a href="https://github.com/mehakjaveed83/healthcare-ai-support-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=healthcare-ai-support-agent&theme=tokyonight&hide_border=true"/>
-</a>
+[![Olist Analytics](https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=olist-ecommerce-analytics&theme=tokyonight)](https://github.com/mehakjaveed83/olist-ecommerce-analytics)
 
-<a href="https://github.com/mehakjaveed83/olist-ecommerce-analytics">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=olist-ecommerce-analytics&theme=tokyonight&hide_border=true"/>
-</a>
+[![Clickstream Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=real-time-clickstream-pipeline&theme=tokyonight)](https://github.com/mehakjaveed83/real-time-clickstream-pipeline)
 
-</p>
-
-<p align="center">
-
-<a href="https://github.com/mehakjaveed83/real-time-clickstream-pipeline">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=real-time-clickstream-pipeline&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/mehakjaveed83/App_imigermany">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=App_imigermany&theme=tokyonight&hide_border=true"/>
-</a>
-
-</p>
+[![App ImiGermany](https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=App_imigermany&theme=tokyonight)](https://github.com/mehakjaveed83/App_imigermany)
 ---
 
 ## 📫 Connect with Me
