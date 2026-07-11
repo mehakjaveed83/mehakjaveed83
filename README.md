@@ -113,16 +113,31 @@ Passionate about solving real-world problems with data, machine learning, and AI
 
 ## 🚀 Featured Projects
 
-⭐ Project 1 — Customer Churn Prediction
+## 🚀 Featured Projects
 
-⭐ Project 2 — House Price Prediction
+<p align="center">
 
-⭐ Project 3 — NLP Sentiment Analysis
+<a href="https://github.com/mehakjaveed83/healthcare-ai-support-agent">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=healthcare-ai-support-agent&theme=tokyonight&hide_border=true"/>
+</a>
 
-⭐ Project 4 — Deep Learning Image Classification
+<a href="https://github.com/mehakjaveed83/olist-ecommerce-analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=olist-ecommerce-analytics&theme=tokyonight&hide_border=true"/>
+</a>
 
-⭐ Project 5 — LLM-powered Chatbot
+</p>
 
+<p align="center">
+
+<a href="https://github.com/mehakjaveed83/real-time-clickstream-pipeline">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=real-time-clickstream-pipeline&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/mehakjaveed83/App_imigermany">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mehakjaveed83&repo=App_imigermany&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 ---
 
 ## 📫 Connect with Me
