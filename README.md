@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehak Jan</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=3FA9F5&center=true&vCenter=true&width=650&lines=Data+Scientist;Machine+Learning+Engineer;AI+Enthusiast;Open+to+Work+in+Germany"/>
+</p>
+
+
 <h3 align="center">
 Data Scientist • Machine Learning Engineer • AI Enthusiast
 </h3>
