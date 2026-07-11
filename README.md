@@ -6,6 +6,6 @@
 - 🌱 Learning MLOps, LLMs and Generative AI
 - 👯 Looking to collaborate on Data Science projects
 - 💬 Ask me about Python, SQL, Machine Learning
-- 📫 Reach me: your@email.com
+- 📫 Reach me: mehakingermany@gmail.com
 
 ---
