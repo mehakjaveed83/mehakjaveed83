@@ -1,4 +1,4 @@
-# Hi 👋, I'm Mehak Javeed
+# Hi 👋, I'm Mehak Jan
 
 ### Data Scientist | Machine Learning | AI
 
