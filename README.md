@@ -103,12 +103,12 @@ Passionate about solving real-world problems with data, machine learning, and AI
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
+[<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=mehakjaveed83&theme=tokyonight&no-frame=true&margin-w=15"/>
 
 </p>
-
+](https://github-profile-trophy.vercel.app/?username=mehakjaveed83&theme=tokyonight&no-frame=true&margin-w=15)
 ---
 
 ## 🚀 Featured Projects
