@@ -125,7 +125,7 @@ Passionate about solving real-world problems with data, machine learning, and AI
 
 ## 📫 Connect with Me
 
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- LinkedIn: [https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/mehak-jan/)
 - Email: mehakingermany@gmail.com
 
 ---
